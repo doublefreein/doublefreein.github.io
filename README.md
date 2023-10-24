@@ -1,5 +1,7 @@
 # DoubleFree: Official Website
 
+* Website is hosted at `https://doublefree.in`
+
 The website is build using following steps
 
 ### Creating https://doublefreein.github.io
@@ -8,7 +10,7 @@ The website is build using following steps
 3. Created `index.html` and pushed on `main` branch
 4. In the respository's setting, enabled `pages`
 
-### Adding custom domain
+### Mapping to custom domain https://doublefree.in
 1. Purchased domain `doublefree.in` on Godaddy
 2. On the github profile setting verified the domain by adding `TXT` record suggested
 3. Also added `A` recored with `github.io` suggested IP addresses
