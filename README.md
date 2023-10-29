@@ -17,3 +17,6 @@ The website is build using following steps
 4. On the github/pages setting, added the custom domain as `doublefree.in`
 5. It auto verified the domain and generated certificate in 15 mins
 6. Finally, enforced `HTTPS`
+
+### Jekyll theme
+1. Current theme is https://mmistakes.github.io/minimal-mistakes/
