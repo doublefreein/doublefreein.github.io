@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Solutions"
+    url: /solutions
   #- title: "Blogs"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   #- title: "Careers"
