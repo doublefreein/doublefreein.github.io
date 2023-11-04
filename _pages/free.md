@@ -1,6 +1,7 @@
 ---
 title: "FLOSS: Free, Libre, Open Source Software"
 permalink: /floss
+layout: single
 ---
 
 **The Power of FLOSS: Unleashing the Benefits of Open Source Software**
