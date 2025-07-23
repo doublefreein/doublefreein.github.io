@@ -20,3 +20,5 @@ The website is build using following steps
 
 ### Jekyll theme
 1. Current theme is https://mmistakes.github.io/minimal-mistakes/
+
+---
