@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "About Us"
+    url: /about-us
   - title: "Solutions"
     url: /solutions
   #- title: "Blogs"
