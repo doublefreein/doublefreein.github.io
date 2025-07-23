@@ -1,0 +1,23 @@
+feature_row:
+  - image_path: 
+    alt: "Ethical"
+    title: "Ethical and Copyleft"
+    excerpt: "Our solutions are ethical and copyleft by nature"
+    url: "/ethical-technology"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: 
+    alt: "Secure and Scalable"
+    title: "Secure and Scalable"
+    excerpt: "Our solutions are scalable, secure and user's privacy focused"
+    url: "/secure"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path:
+    alt: "Open Source"
+    title: "Open Source"
+    excerpt: "Our solutions are Open source and we support Free Software"
+    url: "/floss"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"      
+
