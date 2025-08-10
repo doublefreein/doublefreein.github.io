@@ -4,6 +4,10 @@ main:
     url: /about-us
   - title: "Solutions"
     url: /solutions
+  - title: "Blog"
+    url: /blog
+  #- title: "Tags"
+  #  url: /tags
   #- title: "Blogs"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   #- title: "Careers"
