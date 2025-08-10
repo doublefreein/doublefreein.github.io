@@ -13,7 +13,7 @@ and leaves a net-positive impact on the world. We reject models that extract,
 enclose, or dominate. Instead, we commit to creating solutions that are:
 
 1. Free from central control (Decentralized by design)
-2. Free to benefit all stakeholders (Equitable in outcome)
+2. Free to benefit all stakeholders (Equal in opportunity)
 
 ## Core Principles
 1. Decentralization over Central Control
@@ -32,7 +32,7 @@ enclose, or dominate. Instead, we commit to creating solutions that are:
     * We want to build with and for the commons: open source software,
       open data, shared protocols. What we use, we also contribute to.
 
-##  DoubleFree in Action
+## DoubleFree in Action
 
 1. Eco-Conscious Architecture
     * We support and invest in buildings that use local materials like lime,
