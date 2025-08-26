@@ -6,14 +6,8 @@ main:
     url: /solutions
   - title: "Blog"
     url: /blog
-  #- title: "Tags"
-  #  url: /tags
-  #- title: "Blogs"
-  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  #- title: "Careers"
-  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  #- title: "About"
-  #  url: https://doublefree.in
+  - title: "Join Us"
+    url: /join-us
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
