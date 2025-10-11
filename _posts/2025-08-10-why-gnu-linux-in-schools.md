@@ -28,3 +28,8 @@ It doesn’t have to be a glassy UI with animated icons. Start with the black sc
 Because in the coming years, the cost of ignoring freedom will not just be an ad in your inbox. It will be AI systems you can’t question, platforms you can’t leave, and “free” tools that own more of you than you own of them.
 
 Better to raise a generation who knows that software is not a service - it’s theirs.
+
+---
+
+Explore [Doublefree's GNU/Linux Education Program](https://github.com/doublefreein/Doublefree-s-GNU-Linux-Education-Program)
+-- A comprehensive educational curriculum for introducing high school students to GNU/Linux operating system and its philosophy.
