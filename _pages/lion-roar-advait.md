@@ -6,7 +6,7 @@ layout: single
 
 *Building in Harmony with Mother Earth*
 
-![The Lion-Roar of Advait](/assets/images/adwait/LROA.JPG)
+![The Lion-Roar of Advait](/assets/images/advait/LROA.JPG)
 
 ## Project Overview
 
@@ -37,9 +37,10 @@ For detailed information about mud, soil & lime construction methods, benefits, 
 
 *Site plans and detailed construction documentation will be shared here under CC-BY-NC-SA-4.0 license, allowing others to learn from and adapt our methods while respecting the non-commercial and share-alike terms.*
 
-- [Site Plans](/assets/images/advait/sitePlans.pdf)
+- [Site Plans](/assets/images/advait/sitePlanWM.pdf)
 - [Ground Plan](/assets/images/advait/groundFloor.pdf)
 - [First Floor Plan](/assets/images/advait/firstFloor.pdf)
+
 
 ## Client, Architecture & Contractors
 
