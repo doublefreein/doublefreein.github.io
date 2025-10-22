@@ -4,6 +4,10 @@ permalink: /solutions
 read_time: false
 ---
 
+## Eco-Conscious Architecture
+
+* [The lion-roar of Adwait](/lion-roar-advait)
+
 ## Software Solutions
 
 We build [Ethical](/ethical-technology), [Secure](/secure), [Open-Source](/free), [Copyleft](/ethical-technology), [Privacy-Focused, and Scalable Solutions](/secure)
