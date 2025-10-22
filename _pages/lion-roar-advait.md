@@ -35,7 +35,7 @@ For detailed information about mud, soil & lime construction methods, benefits, 
 
 ## Site Plans & Documentation
 
-*Site plans and detailed construction documentation will be shared here under CC-BY-NC-SA-4.0 license, allowing others to learn from and adapt our methods while respecting the non-commercial and share-alike terms.*
+*Site plans and detailed construction documentation will be shared here under [CC-BY-NC-SA-4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/), allowing others to learn from and adapt our methods while respecting the non-commercial and share-alike terms.*
 
 - [Site Plans](/assets/images/advait/sitePlanWM.pdf)
 - [Ground Plan](/assets/images/advait/groundFloor.pdf)
