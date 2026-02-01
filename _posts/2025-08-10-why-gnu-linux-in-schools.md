@@ -7,6 +7,9 @@ layout: single
 author_profile: false
 ---
 
+* ![](/assets/images/LinuxInSchools.png)
+
+
 In today’s AI-hungry, “freebie” world, we’ve learned to measure software only by how comfortable it feels, not by how free it makes us. The irony? We’ve traded actual freedom for a frictionless login screen and a pretty wallpaper.
 
 When schools introduce children to technology through proprietary operating systems, they’re not just teaching “how to use a computer.” They’re silently setting the rules:
