@@ -1,6 +1,11 @@
 ---
-title: "Public Tech Should Be Publicly Built" date: 2025-08-10 categories:
-[Freedom] tags: [Free-Software] layout: single author_profile: false ---
+title: "Public Tech Should Be Publicly Built"
+date: 2026-06-05
+categories: [Freedom]
+tags: [Free-Software Government Public-Infra]
+layout: single
+author_profile: false
+---
 
 *Why India must choose open source for its government infrastructure — and how
 it could become the largest employer of engineers in the AI era.*
