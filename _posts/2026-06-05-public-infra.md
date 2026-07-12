@@ -2,9 +2,10 @@
 title: "Public Tech Should Be Publicly Built"
 date: 2026-06-05
 categories: [Freedom]
-tags: [PublicMoneyPublicCode CivicTech OpenSourceIndia]
-layout: single
-author_profile: false
+tags: [Public-Money-Public-Code, Civic-Tech, Open-Source]
+excerpt: "Why India must choose open source for its government infrastructure — and how it could become the largest employer of engineers in the AI era."
+header:
+  teaser: /assets/images/dfBc.png
 ---
 
 *Why India must choose open source for its government infrastructure — and how

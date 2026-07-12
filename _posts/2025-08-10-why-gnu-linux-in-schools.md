@@ -3,11 +3,12 @@ title: "Why Schools Should Teach GNU/Linux - Not Proprietary OSes"
 date: 2025-08-10
 categories: [Education, Freedom]
 tags: [Free-Software]
-layout: single
-author_profile: false
+excerpt: "When schools teach proprietary systems, they teach dependence. GNU/Linux belongs in the classroom."
+header:
+  teaser: /assets/images/LinuxInSchools.png
 ---
 
-* ![](/assets/images/LinuxInSchools.png)
+![GNU/Linux in schools](/assets/images/LinuxInSchools.png)
 
 
 In today’s AI-hungry, “freebie” world, we’ve learned to measure software only by how comfortable it feels, not by how free it makes us. The irony? We’ve traded actual freedom for a frictionless login screen and a pretty wallpaper.

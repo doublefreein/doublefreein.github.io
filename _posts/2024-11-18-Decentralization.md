@@ -1,12 +1,11 @@
 ---
-
-title: "Decentralization - Why its the need of the hour"
+title: "Decentralization - Why It's the Need of the Hour"
 date: 2024-11-18
 categories: [Technology]
 tags: [Decentralization]
-layout: single
-desc: Why decentralization is the need of the hour
-author_profile: false
+excerpt: "Technology is centralizing power at unprecedented speed. Decentralization is how we take it back."
+header:
+  teaser: /assets/images/dfBc.png
 ---
 
 Looking back at the events of the past decade, one can’t help but wonder:

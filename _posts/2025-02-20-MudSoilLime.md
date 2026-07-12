@@ -1,8 +1,11 @@
 ---
-layout: posts
 title: "Mud, Soil & Lime"
-tags: Construction Building Soil Lime
-desc: Construction using sustainable & eco-friendly ways
+date: 2025-02-20
+categories: [Sustainability]
+tags: [Construction, Building, Soil, Lime]
+excerpt: "Traditional construction with mud, soil, and lime is durable, climate-adaptive, and sustainable — and worth reviving."
+header:
+  teaser: /assets/images/mud/rammed.png
 ---
 Traditional construction techniques have stood the test of time, offering
 durability, climate adaptability, and sustainability. Many ancient 
