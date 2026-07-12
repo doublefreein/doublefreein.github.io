@@ -104,30 +104,21 @@ analytics:
 
 # Site Author
 author:
-  name             : "Admin"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Web Admin at Doublefree"
+  name             : "Doublefree Team"
+  avatar           : "/assets/images/logo.png"
+  bio              : "Building free, sustainable, community-first technology."
   location         : "India"
-  email            :
+  email            : "doublefreein+join@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://doublefree.in"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://twitter.com/DoubleFreeIn"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://github.com/doublefreein"
 
 # Site Footer
 footer:
