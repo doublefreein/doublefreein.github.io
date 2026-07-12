@@ -1,12 +1,11 @@
 ---
-
 title: "Doublefree Free-Repairable Desktop"
 date: 2025-08-24
 categories: [Technology]
 tags: [Freedom, Repairability, Long-Term Thinking]
-layout: single
-desc: Why the Doublefree Free-Repairable Desktop is the Future Bharat Needs
-author_profile: false
+excerpt: "Why the Doublefree Free-Repairable Desktop is the future Bharat needs."
+header:
+  teaser: /assets/images/dfGnuLinux.png
 ---
 
 ## The Philosophy: Freedom, Repairability, and Long-term Thinking

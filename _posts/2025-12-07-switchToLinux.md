@@ -1,10 +1,11 @@
 ---
 title: "Switch To GNU/Linux Today"
-date: 2025-08-10
+date: 2025-12-07
 categories: [Freedom]
 tags: [Free-Software]
-layout: single
-author_profile: false
+excerpt: "One poster, one message: it's time to switch to GNU/Linux."
+header:
+  teaser: /assets/images/SwitchToLinux.png
 ---
 
 <a href="/assets/images/SwitchToLinux.png">

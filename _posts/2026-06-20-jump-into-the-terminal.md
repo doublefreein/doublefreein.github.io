@@ -3,8 +3,9 @@ title: "Jump Into the Terminal — Let Students Explore First"
 date: 2026-06-20
 categories: [Education, Freedom]
 tags: [Free-Software, CLI]
-layout: single
-author_profile: false
+excerpt: "Students don't need a manifesto before their first command. They need a prompt and permission to explore."
+header:
+  teaser: /assets/images/LinuxInSchools.png
 ---
 
 The Linux terminal is not a punishment screen. For many students, it is the first place where a computer stops being a sealed appliance and starts feeling like a playground.
