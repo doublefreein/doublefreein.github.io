@@ -38,29 +38,27 @@ The houses built with mud/soil & lime are
 
 Here are some beautiful structures build using soil & lime.
 
-* Auroville Earth Institute
-    ![](/assets/images/mud/auroville.jpg)
-* Hunnarshala Foundation
-    ![](/assets/images/mud/hunnarshala.jpg)
+* [Auroville Earth Institute](https://www.earth-auroville.com/)
+* [Hunnarshala Foundation](https://hunnarshala.org/)
 
 There are different methods of construction using mud, soil, clay & lime. 
 
 A. Traditional Mud Construction
 - *Cob Construction*: A mix of clay, sand, straw, and water is molded by hand and
   built up in layers. This method creates strong, sculptural walls.
-    - <img src="/assets/images/mud/cob.png" height="200">
+    - <img src="/assets/images/mud/cob.png" height="200" alt="Cob construction: hand-molded clay, sand, and straw walls">
     - [source](https://en.wikipedia.org/wiki/Cob_(material))
 - *Rammed Earth*: Layers of damp soil are compacted within a temporary frame,
   creating solid and durable walls.
-    - <img src="/assets/images/mud/rammed.png" height="200"><img src="/assets/images/mud/rammed1.png" height="200">
+    - <img src="/assets/images/mud/rammed.png" height="200" alt="Rammed earth technique: soil compacted in a temporary frame"><img src="/assets/images/mud/rammed1.png" height="200" alt="Finished rammed earth wall showing layered texture">
     - [source](https://www.greenspec.co.uk/images/web/materials/rammedearth/rammed-earth-technique.jpg)
 - *Adobe Bricks*: Sun-dried mud bricks are stacked with a mud-lime mortar,
   providing stability and breathability.
-    - <img src="/assets/images/mud/adobe.png" height="200">
+    - <img src="/assets/images/mud/adobe.png" height="200" alt="Adobe construction: sun-dried mud bricks stacked with mortar">
     - [source](https://en.wikipedia.org/wiki/Adobe)
 - *Wattle and Daub*: A woven lattice of wooden strips is coated with a mud-lime
   mixture, offering flexibility and earthquake resistance.
-    - <img src="/assets/images/mud/wattleDaub.png" height="200">
+    - <img src="/assets/images/mud/wattleDaub.png" height="200" alt="Wattle and daub: woven wooden lattice coated with mud-lime mix">
     - [source](https://i.pinimg.com/originals/83/ab/16/83ab1653466445712f3b822df5a79c98.jpg)
 
 B. Lime Integration for Durability

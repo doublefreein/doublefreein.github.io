@@ -17,7 +17,7 @@ read_time: false
 
 1. We assist schools in introducing GNU/Linux operating systems to raise
    awareness among children about alternatives to proprietary operating systems.
-   Read Why GNU/Linux should be taught in every school [here](https://doublefree.in/education/freedom/why-gnu-linux-in-schools/).
+   Read Why GNU/Linux should be taught in every school [here](/education/freedom/why-gnu-linux-in-schools/).
    It includes a course which can be taught in higher schools.
 2. We believe in Freedom, Repairability, and Long-term Thinking even in tech
    infrastructure. Explore [Doublefree Free-repairable destkop](/technology/WhyDesktop/)
