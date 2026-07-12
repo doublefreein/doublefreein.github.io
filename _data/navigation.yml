@@ -4,6 +4,8 @@ main:
     url: /about-us
   - title: "Solutions"
     url: /solutions
+  - title: "Projects"
+    url: /projects/
   - title: "Blog"
     url: /blog
   - title: "Join Us"
