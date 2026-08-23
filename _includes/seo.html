@@ -126,7 +126,9 @@
     "@context": "https://schema.org",
     {% if site.social.type == "Organization" %}
       "@type": "Organization",
-      "url": {{ '/' | absolute_url | jsonify }}{% if site.og_image %},
+      "name": {{ site.social.name | default: site.name | jsonify }},
+      "url": {{ '/' | absolute_url | jsonify }}{% if site.social.links %},
+      "sameAs": {{ site.social.links | jsonify }}{% endif %}{% if site.og_image %},
       "logo": {{ site_og_image | jsonify }}{% endif %}
     {% else %}
       "@type": "Person",

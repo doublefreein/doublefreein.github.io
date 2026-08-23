@@ -1,6 +1,7 @@
 ---
 title: "Join Us"
 permalink: /join-us
+excerpt: "Openings for interns, developers, designers, architects, and community leaders building ethical, sustainable technology with Doublefree."
 ---
 
 At DoubleFree, we believe in building technology, spaces, and supply chains that

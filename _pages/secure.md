@@ -1,6 +1,7 @@
 ---
 title: "Building a Secure and Scalable Architecture"
 permalink: /secure
+excerpt: "Principles behind a secure, scalable architecture: modular design, open-source transparency, and multi-tier data protection."
 ---
 
 In today's fast-paced digital world, businesses rely on secure and scalable architectures to meet their ever-evolving needs. The foundation of such an architecture is not just about technology but also about principles and strategies that prioritize adaptability, security, and user privacy. In this blog post, we'll explore the key principles of a secure and scalable architecture.

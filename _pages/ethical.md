@@ -1,6 +1,7 @@
 ---
 title: "Ethical Design"
 permalink: /ethical-technology
+excerpt: "What makes technology ethical: privacy-respecting, accessible, and transparent by design."
 ---
 
 Ethical technology refers to software that is created and distributed with a strong focus on ethical principles and values.
