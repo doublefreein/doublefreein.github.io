@@ -1,6 +1,7 @@
 ---
-title: "Doublefree"
+title: "About Us"
 permalink: /about-us
+excerpt: "Freedom in Method, Freedom in Impact — the belief system behind Doublefree's ethical software, eco-conscious architecture, and transparent supply-chain work."
 ---
 
 Freedom in Method. Freedom in Impact.

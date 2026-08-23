@@ -2,6 +2,7 @@
 title: "FLOSS: Free, Libre, Open Source Software"
 permalink: /floss
 layout: single
+excerpt: "What FLOSS (Free, Libre, Open Source Software) means, and why it matters for developers and users alike."
 ---
 
 **The Power of FLOSS: Unleashing the Benefits of Open Source Software**
