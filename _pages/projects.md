@@ -16,7 +16,7 @@ A Mother-Earth-conscious home built with traditional materials and
 techniques — structures that breathe with the land instead of sealing
 against it.
 
-[See the project](/lion-roar-advait){: .btn .btn--primary}
+[See the project](https://doublefree.in/advait/){: .btn .btn--primary}
 [Why mud, soil & lime](/sustainability/MudSoilLime/){: .btn .btn--inverse}
 
 ## Doublefree Free-Repairable Desktop
