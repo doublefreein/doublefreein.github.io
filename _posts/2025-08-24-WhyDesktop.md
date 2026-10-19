@@ -5,7 +5,7 @@ categories: [Technology]
 tags: [Freedom, Repairability, Long-Term Thinking]
 excerpt: "Why the Doublefree Free-Repairable Desktop is the future Bharat needs."
 header:
-  teaser: /assets/images/dfGnuLinux.png
+  teaser: /assets/images/dfSoftware.jpg
 ---
 
 **Update:** We built one. See [the desktop we assembled, with its full parts

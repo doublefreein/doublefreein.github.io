@@ -5,7 +5,7 @@ categories: [Technology]
 tags: [Decentralization]
 excerpt: "Technology is centralizing power at unprecedented speed. Decentralization is how we take it back."
 header:
-  teaser: /assets/images/dfBc.png
+  teaser: /assets/images/dfSupplyChain.jpg
 ---
 
 Looking back at the events of the past decade, one can’t help but wonder:

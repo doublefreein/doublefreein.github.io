@@ -5,7 +5,7 @@ categories: [Technology]
 tags: [Freedom, Repairability, Hardware, Debian]
 excerpt: "The exact parts list and bill of the repairable GNU/Linux desktop we assembled for ourselves, and how we can build one for you."
 header:
-  teaser: /assets/images/dfGnuLinux.png
+  teaser: /assets/images/dfSoftware.jpg
 ---
 
 We have written about [why a repairable desktop matters]({% post_url 2025-08-24-WhyDesktop %}).
