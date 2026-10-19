@@ -25,7 +25,12 @@ A desktop computer built on four principles: user freedom, repairability,
 standard components, and long-term thinking. 100% free software wherever
 possible, openable with a simple screwdriver.
 
-[Read the philosophy](/technology/WhyDesktop/){: .btn .btn--primary}
+We assembled one for ourselves and published the full parts list and bill.
+We can assemble one for you too, running GNU/Linux, for 15% of the bare
+machine's parts cost.
+
+[See our build & prices](/technology/our-desktop-build/){: .btn .btn--primary}
+[Read the philosophy](/technology/WhyDesktop/){: .btn .btn--inverse}
 
 ## GNU/Linux in Schools
 

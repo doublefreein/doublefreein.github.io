@@ -28,7 +28,9 @@ Our software solutions are:
    Read Why GNU/Linux should be taught in every school [here](/education/freedom/why-gnu-linux-in-schools/).
    It includes a course which can be taught in higher schools.
 2. We believe in Freedom, Repairability, and Long-term Thinking even in tech
-   infrastructure. Explore [Doublefree Free-repairable destkop](/technology/WhyDesktop/)
+   infrastructure. Explore [Doublefree Free-repairable desktop](/technology/WhyDesktop/),
+   and see [the desktop we built, with its full parts list and prices](/technology/our-desktop-build/).
+   We can assemble one for you, running GNU/Linux.
 3. We organize seminars and talks on the subject of [Free & Open Source Software (FOSS)](/floss).
 4. We help schools & organizations in hosting and maintaining their secure
    websites, similar to this, at a fraction of the cost of conventional website

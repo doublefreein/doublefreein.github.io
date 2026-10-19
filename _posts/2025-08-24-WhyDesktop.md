@@ -8,6 +8,11 @@ header:
   teaser: /assets/images/dfGnuLinux.png
 ---
 
+**Update:** We built one. See [the desktop we assembled, with its full parts
+list and prices]({% post_url 2026-10-20-our-desktop-build %}), and how we can
+build one for you.
+{: .notice--info}
+
 ## The Philosophy: Freedom, Repairability, and Long-term Thinking
 
 In a world where technology is increasingly disposable and locked-down, the
