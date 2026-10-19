@@ -46,8 +46,8 @@ What a pilot looks like: one craft, a small batch of pieces, and us doing most
 of the setup. Makers' privacy comes first: we
 publish only what they agree to.
 
-Interested? Write to **doublefreein+join@gmail.com** with "Pilot" in the
-subject, and tell us about your craft and your group.
+Interested? Write to **doublefreein+pilot@gmail.com** and tell us about your
+craft and your group.
 
 ## What We Offer
 - A **collaborative ecosystem** where your work creates **real-world impact**.
