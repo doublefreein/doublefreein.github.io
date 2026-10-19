@@ -46,7 +46,8 @@ enclose, or dominate. Instead, we commit to creating solutions that are:
       Our goal: digital sovereignty for all - from rural co-ops to urban
       startups.
 3. Transparent Supply Chains
-    * We work with textile artisans and merchants to build distributed
-      ledger-based systems that track the journey of every product - ensuring
-      fair profit sharing from the loom to the showroom. Everyone sees,
-      everyone gains.
+    * We're building open product passports for artisans - weavers, bamboo
+      craftspeople, potters and more. Scan a tag to see who made it, from
+      what, and what they were paid - fair profit sharing from the maker to
+      the showroom. Everyone sees, everyone gains. We're looking for
+      [pilot partners](/join-us#pilot-partners).

@@ -1,7 +1,7 @@
 ---
 title: "Join Us"
 permalink: /join-us
-excerpt: "Openings for interns, developers, designers, architects, and community leaders building ethical, sustainable technology with Doublefree."
+excerpt: "Openings for interns, developers, designers, architects, and community leaders - and a call for artisan groups and merchants to pilot open product passports with Doublefree."
 ---
 
 At DoubleFree, we believe in building technology, spaces, and supply chains that
@@ -27,6 +27,27 @@ Bharat.
   community-first building models.
 - **Community Leaders** – Partner with artisans, farmers, NGOs to amplify local
   knowledge.
+
+## Pilot Partners
+
+We're building **open product passports** for handmade goods. A simple tag on
+each piece lets a buyer see who made it, from what materials, and what the
+makers were paid. It works for any craft: handloom, bamboo, pottery, metal,
+wood and more.
+
+We're looking for a few partners to pilot it with us:
+
+- **Artisan groups and co-operatives** – who want buyers to see the real work
+  and the real makers behind each piece.
+- **Merchants and ethical brands** – who want to prove "handmade" and "fair" to
+  their customers instead of just saying it.
+
+What a pilot looks like: one craft, a small batch of pieces, and us doing most
+of the setup. Makers' privacy comes first: we
+publish only what they agree to.
+
+Interested? Write to **doublefreein+join@gmail.com** with "Pilot" in the
+subject, and tell us about your craft and your group.
 
 ## What We Offer
 - A **collaborative ecosystem** where your work creates **real-world impact**.
